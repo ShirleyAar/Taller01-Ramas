@@ -1,1 +1,1 @@
-![Artista superior a titulo](TituloArtistas.png)
+![Artista superior a titulo](TituloArtista.png)
