@@ -1,3 +1,3 @@
 
-![Titulos Cambiados](TiuloArtistas.png)
+![Titulos Cambiados](TituloArtistas.png)
 
